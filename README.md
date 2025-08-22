@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=
 
-<!--
-**JGomes-Bigode777/JGomes-Bigode777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá 👋, Eu sou {João Otávio}</h1>
+<h3 align="center">residente em {Mogi Guaçu-SP}/{BRASIL}.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🌱 Meus estudos atuais focam em **Front End (JavaScript )** e **Application Design (Hexagonal Architecture)**.
+
+- 📫 Este é meu e-mail para contato: **joaootaviogomesdasilva@gmail.com**
+ 
