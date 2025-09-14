@@ -4,8 +4,8 @@
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=
 
-<h1 align="center">Olá 👋, Eu sou João Otávio </h1>
-<h3 align="center">residente em Mogi Guaçu-SP /BRASIL.</h3>
+<h1 align="center">Satisfação, meu nome é João Otávio </h1>
+<h3 align="center">Residente em Mogi Guaçu-SP /BRASIL.</h3>
 
 
 
